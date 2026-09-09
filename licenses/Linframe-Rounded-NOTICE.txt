@@ -1,0 +1,9 @@
+Linframe Rounded is a limited-character WOFF2 subset of ChillRoundF v3.0.
+The subset has been renamed to avoid the reserved font names.
+It is distributed under the SIL Open Font License 1.1; see ChillRound-OFL.txt.
+
+Original source: https://github.com/Warren2060/ChillRound
+Original font: ChillRoundF v3.0.ttf
+Copyright: © 2023 ChillType.
+
+The font subset is embedded in the exported HTML. No external font service is required.
